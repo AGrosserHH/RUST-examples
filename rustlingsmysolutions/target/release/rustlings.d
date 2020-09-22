@@ -1,0 +1,1 @@
+/home/andi/Rust/rustlings/target/release/rustlings: /home/andi/Rust/rustlings/src/exercise.rs /home/andi/Rust/rustlings/src/main.rs /home/andi/Rust/rustlings/src/run.rs /home/andi/Rust/rustlings/src/ui.rs /home/andi/Rust/rustlings/src/verify.rs

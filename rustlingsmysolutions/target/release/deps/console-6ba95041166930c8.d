@@ -1,0 +1,13 @@
+/home/andi/Rust/rustlings/target/release/deps/console-6ba95041166930c8.rmeta: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/common_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/kb.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/unix_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/utils.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/ansi.rs
+
+/home/andi/Rust/rustlings/target/release/deps/libconsole-6ba95041166930c8.rlib: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/common_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/kb.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/unix_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/utils.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/ansi.rs
+
+/home/andi/Rust/rustlings/target/release/deps/console-6ba95041166930c8.d: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/common_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/kb.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/unix_term.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/utils.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/ansi.rs
+
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/lib.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/common_term.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/kb.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/term.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/unix_term.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/utils.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.12.0/src/ansi.rs:

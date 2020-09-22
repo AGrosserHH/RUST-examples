@@ -1,0 +1,14 @@
+/home/andi/Rust/rustlings/target/release/deps/toml-c8ab3e3653b2a33e.rmeta: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs
+
+/home/andi/Rust/rustlings/target/release/deps/libtoml-c8ab3e3653b2a33e.rlib: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs
+
+/home/andi/Rust/rustlings/target/release/deps/toml-c8ab3e3653b2a33e.d: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs
+
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs:

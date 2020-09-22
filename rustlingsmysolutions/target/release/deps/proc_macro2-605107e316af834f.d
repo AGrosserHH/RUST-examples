@@ -1,0 +1,12 @@
+/home/andi/Rust/rustlings/target/release/deps/proc_macro2-605107e316af834f.rmeta: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/andi/Rust/rustlings/target/release/deps/libproc_macro2-605107e316af834f.rlib: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/andi/Rust/rustlings/target/release/deps/proc_macro2-605107e316af834f.d: /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs /home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs
+
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/lib.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/marker.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/parse.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/detection.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/fallback.rs:
+/home/andi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.21/src/wrapper.rs:
